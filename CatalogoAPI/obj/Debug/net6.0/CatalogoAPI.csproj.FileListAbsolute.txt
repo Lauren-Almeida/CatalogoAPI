@@ -47,3 +47,10 @@ D:\ProjetosCurso\CatalogoAPI\CatalogoAPI\obj\Debug\net6.0\refint\CatalogoAPI.dll
 D:\ProjetosCurso\CatalogoAPI\CatalogoAPI\obj\Debug\net6.0\CatalogoAPI.pdb
 D:\ProjetosCurso\CatalogoAPI\CatalogoAPI\obj\Debug\net6.0\CatalogoAPI.genruntimeconfig.cache
 D:\ProjetosCurso\CatalogoAPI\CatalogoAPI\obj\Debug\net6.0\ref\CatalogoAPI.dll
+D:\ProjetosCurso\CatalogoAPI\CatalogoAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ProjetosCurso\CatalogoAPI\CatalogoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProjetosCurso\CatalogoAPI\CatalogoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ProjetosCurso\CatalogoAPI\CatalogoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ProjetosCurso\CatalogoAPI\CatalogoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProjetosCurso\CatalogoAPI\CatalogoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ProjetosCurso\CatalogoAPI\CatalogoAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
